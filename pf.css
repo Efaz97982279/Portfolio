@@ -1,0 +1,94 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.main{
+    background-image:url('kh.jpg/top-banner.png');
+    background-repeat: no-repeat;
+    padding-top: 7%;
+}
+.name-highlight{
+    color: cadetblue; 
+}
+.half-portion{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h1{
+    font-size: 50px;
+    font-weight: 450;
+    margin: 0;
+ }
+.half-portion img{
+    width: 80%; 
+}
+.half-portion p{
+    padding-bottom: 20px;
+    font-weight: 300;
+}
+.button{
+    color: #fff;
+    text-decoration: none;
+    background: linear-gradient(-30deg, rgb(104, 216, 179),rgb(17, 99, 51));
+    border-radius: 10px;
+    padding: 12px 40px;
+    font-weight: 600;
+    border-radius: 8px;
+}
+.half-portion img{
+    width: 100%;
+    float: left;
+    padding-top: 10px;
+}
+.second{
+    
+    background-position: right;
+    background-image:url('kh.jpg/dream-bg.png');
+    background-repeat: no-repeat;
+}
+.third{
+    background-image: url('kh.jpg/exp-bg.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-bottom: 10%;
+}
+.heading{
+    text-align: center;
+    padding-bottom: 7%;
+}
+#ex01{
+    
+    box-shadow: 10px 10px 40px gray;
+    height: 70%;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue,cyan);
+    border-image-slice: 1;
+    background-color: #fff;
+}
+#ex02{
+    
+    box-shadow: 10px 10px 40px gray;
+    height: 70%;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, tomato,lightSalmon);
+    border-image-slice: 1; 
+}
+.footer{
+    text-align: center;
+    font-weight: 300;
+}
+.button02{
+    color: #fff;
+    text-decoration: none;
+    background: linear-gradient(-45deg, rgb(104, 152, 216),rgb(35, 204, 226));
+    border-radius: 10px;
+    padding: 12px 40px;
+    font-weight: 600;
+    border-radius: 8px;
+}
